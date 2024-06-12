@@ -1,0 +1,5 @@
+0 rabit
+1 dog
+2 cat
+3 bird
+4 tiger
